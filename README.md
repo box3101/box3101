@@ -49,8 +49,7 @@
 - 2021.09 정보통신 접근성 인증 프로젝트(품질마크 휙득)
 
 - 2021.08 ~ 2021.10
-
-🔗 패밀리사이트-인천 국민 안전체험관 [https://www.incheon.go.kr/index](https://www.incheon.go.kr/index)
+🔗 패밀리사이트-인천 국민 안전체험관 [(https://www.incheon.go.kr/119safe/index](https://www.incheon.go.kr/119safe/index)
 
 - 2021.10 ~ 2021.12
 - 2021.12 정보통신 접근성 인증 프로젝트(품질마크 휙득)
