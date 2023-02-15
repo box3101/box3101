@@ -27,9 +27,7 @@
 - 롯데 그룹 사이트 운영	2018.03~2018.07	롯데그룹	㈜디지털다임
 
 ## portfolio
-### **Astro Project**
-
-- 인천광역시 중구청평생교육포털
+### 인천광역시 중구청평생교육포털 (width Astro 1.0)
 
 🔗 깃 URL [https://github.com/box3101/AstroProject](https://github.com/box3101/AstroProject)
 
@@ -38,6 +36,14 @@
 🔗 프론트 가이드(with notion)  [https://www.notion.so/cylee-blog/699e015b035e4950b4a8b6249765cae4](https://www.notion.so/699e015b035e4950b4a8b6249765cae4)
 
 🔗 관리자 가이드(with notion)  [https://www.notion.so/cylee-blog/699e015b035e4950b4a8b6249765cae4](https://www.notion.so/699e015b035e4950b4a8b6249765cae4)
+
+### G4b 기업지원플러스
+
+🔗 GIT URL [https://github.com/box3101/g4b](https://github.com/box3101/g4b)
+
+🔗 가이드 페이지  [https://box3101.github.io/g4b/assets/guide/guide.html](https://box3101.github.io/g4b/assets/guide/guide.html)
+
+🔗 작업 홈페이지  [https://box3101.github.io/g4b/assets/index.html](https://box3101.github.io/g4b/assets/index.html)
 
 <!--
 **box3101/box3101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
