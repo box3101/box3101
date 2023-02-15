@@ -1,3 +1,8 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=hi&nbsp;soon😊!&fontSize=50" />
+
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbox3101&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 ## Skill Inventory
 
 - 인천광역시 통합 웹사이트 운영 및 구축	2021.01~2022.12	인천광역시   ㈜이즈파크
