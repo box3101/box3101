@@ -32,9 +32,9 @@
 🔗 GIT URL [https://github.com/box3101/AstroProject](https://github.com/box3101/AstroProject)
 🔗 작업 홈페이지  [https://leechanyong.netlify.app/](https://leechanyong.netlify.app/)
 
-🔗 프론트 가이드(with notion)  [https://www.notion.so/cylee-blog/699e015b035e4950b4a8b6249765cae4](https://www.notion.so/699e015b035e4950b4a8b6249765cae4)
+🔗 프론트 가이드 페이지(with notion)  [인천 중구청 사용자 작업현황](https://www.notion.so/699e015b035e4950b4a8b6249765cae4) 
 
-🔗 관리자 가이드(with notion)  [https://www.notion.so/cylee-blog/699e015b035e4950b4a8b6249765cae4](https://www.notion.so/699e015b035e4950b4a8b6249765cae4)
+🔗 관리자 가이드 페이지(with notion)  [인천 중구청 관리자 작업현황](https://www.notion.so/8c3f15c8796a4b719e0308925e6b6421)
 
 ### G4b 기업지원플러스
 
