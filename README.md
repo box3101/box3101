@@ -52,7 +52,6 @@
 🔗 가이드 페이지  (with notion) [ICT 한국표준협회(Front) 퍼블리싱 작업 현황](https://www.notion.so/ICT-Front-6022ab91223440fa88874b6f4bf7fb1a)
 
 
-<!--
 **box3101/box3101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
