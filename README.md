@@ -26,7 +26,18 @@
 - 할리스 사이트 운영	2018.03~2018.07	케이지할리스에프앤비	㈜디지털다임
 - 롯데 그룹 사이트 운영	2018.03~2018.07	롯데그룹	㈜디지털다임
 
- 
+## portfolio
+### **Astro Project**
+
+- 인천광역시 중구청평생교육포털
+
+🔗 깃 URL [https://github.com/box3101/AstroProject](https://github.com/box3101/AstroProject)
+
+🔗 작업 홈페이지  [https://leechanyong.netlify.app/](https://leechanyong.netlify.app/)
+
+🔗 프론트 가이드(with notion)  [https://www.notion.so/cylee-blog/699e015b035e4950b4a8b6249765cae4](https://www.notion.so/699e015b035e4950b4a8b6249765cae4)
+
+🔗 관리자 가이드(with notion)  [https://www.notion.so/cylee-blog/699e015b035e4950b4a8b6249765cae4](https://www.notion.so/699e015b035e4950b4a8b6249765cae4)
 
 <!--
 **box3101/box3101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
