@@ -29,7 +29,7 @@
 ## portfolio
 ### 인천광역시 중구청평생교육포털 (width Astro 1.0)
 
-🔗 깃 URL [https://github.com/box3101/AstroProject](https://github.com/box3101/AstroProject)
+🔗 GIT URL [https://github.com/box3101/AstroProject](https://github.com/box3101/AstroProject)
 
 🔗 작업 홈페이지  [https://leechanyong.netlify.app/](https://leechanyong.netlify.app/)
 
