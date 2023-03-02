@@ -55,7 +55,11 @@
 
 - 2021.08 ~ 2021.10
 
-🔗 대표홈페이지 영문,중문.일문 [https://www.incheon.go.kr/en/index](https://www.incheon.go.kr/en/index) , [https://www.incheon.go.kr/jp/index](https://www.incheon.go.kr/jp/index) ,[https://www.incheon.go.kr/cn/index](https://www.incheon.go.kr/jp/index) 
+🔗 대표홈페이지 영문 [https://www.incheon.go.kr/en/index](https://www.incheon.go.kr/en/index)
+
+🔗 대표홈페이지 중문 [https://www.incheon.go.kr/jp/index](https://www.incheon.go.kr/jp/index)
+
+🔗 대표홈페이지 일문 [https://www.incheon.go.kr/cn/index](https://www.incheon.go.kr/jp/index) 
 
 - 2021.05 ~ 2021.06
 
