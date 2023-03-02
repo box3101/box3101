@@ -110,13 +110,13 @@
 
 🔗 프론트 가이드  [http://weep2020.cafe24.com/weep0514.html](http://weep2020.cafe24.com/weep0514.html)
 
-### ****경남테크노파크 항공우주센터****
+### ****ICT표준연과성과관리시스템****
 
 🔗 GIT URL [https://github.com/box3101/TTA](https://github.com/box3101/TTA)
 
-🔗 작업 홈페이지  [http://weep2020.cafe24.com/index.html](http://weep2020.cafe24.com/index.html)
+🔗 작업 홈페이지  [https://box3101.github.io/TTA/assets/html/main.html](https://box3101.github.io/TTA/assets/html/main.html)
 
-🔗 프론트 가이  [http://weep2020.cafe24.com/weep0514.html](http://weep2020.cafe24.com/weep0514.html)
+🔗 프론트 가이드  [https://box3101.github.io/TTA/assets/guide/guide.html](https://box3101.github.io/TTA/assets/guide/guide.html)
 
 
 **box3101/box3101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
