@@ -14,7 +14,7 @@ UI개발자는 기획자, 디자이너 ,BackEnd 개발자와의 소통이 매우
 
 또한 javaScript 라이브러리 프레임워크에 대해서 공부를 진행중이고, React(Redux 활용한) [기업형 홈페이지](https://box3101.github.io/ReactMain/#/))
 
- 를 만들어 봤으며 현재는 Vue.js를 공부 중입니다.
+ 를 만들어 봤으며 현재는 Vue.js를 공부 중이며 [블로그](https://box3101.github.io/)를 운영중입니다
 
 
 ## Skill Inventory
