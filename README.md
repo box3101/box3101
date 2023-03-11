@@ -49,6 +49,14 @@ UI개발자는 기획자, 디자이너 ,BackEnd 개발자와의 소통이 매우
 
 ### 인천광역시 중구청평생교육포털 (width Astro 1.0)
 
+Astro는 22년 1월에 버전 1.0이 나온 신상 프레임워크 입니다.
+
+마크업을 쉽게 유지보수 하기 위해서  gulp를 사용하고 있었는데,
+
+설정이 따라로운 gulp 대신 사용하니 좋았습니다.
+
+css나 js가 한파일에 minify 처리안되는 점만 빼고는 좋았습니다.
+
 🔗 GIT URL [https://github.com/box3101/AstroProject](https://github.com/box3101/AstroProject)
 
 🔗 작업 홈페이지  [https://leechanyong.netlify.app/](https://leechanyong.netlify.app/)
