@@ -2,6 +2,21 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbox3101&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
+## About
+
+UI개발자는 기획자, 디자이너 ,BackEnd 개발자와의 소통이 매우 중요합니다. 
+
+**"대인관계 속 사람들과 의사소통이 원활하게 될 수 있는 점이 저의 가장 큰 장점입니다.**"
+
+ 외적인 아름다움도 중요하지만, 내적인 튼튼함이 없다면 무의미하다고 생각합니다. 
+
+대표적으로 인청광역시 통합 웹사이트, G4b 기업지원 플러스 등 관공서나 공공기관 위주의 업무를 진행 하였고 웹표준, 웹접근성에 관심이 있으며 현재에도 지속적으로 학습을 병행하면서 앞으로 나아가는 중입니다. 
+
+또한 javaScript 라이브러리 프레임워크에 대해서 공부를 진행중이고, React(Redux 활용한) [기업형 홈페이지](https://box3101.github.io/ReactMain/#/))
+
+ 를 만들어 봤으며 현재는 Vue.js를 공부 중입니다.
+
+
 ## Skill Inventory
 
 - 인천광역시 통합 웹사이트 운영 및 구축	2021.01~2022.12	인천광역시   ㈜이즈파크
