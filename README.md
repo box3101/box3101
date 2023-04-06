@@ -15,8 +15,6 @@ UI개발자는 기획자, 디자이너 ,BackEnd 개발자와의 소통이 매우
 
 또한 javaScript 라이브러리 프레임워크에 대해서 공부를 진행중이고, React(Redux 활용한) 기업형 홈페이지를 를 만들어 봤으며 현재는 Vue.js를 공부 중입니다.
 
-🔗 개인포트폴리 URL [https://box3101.github.io/cy-web](https://box3101.github.io/cy-web/)
-
 ## Skill Inventory
 
 - 인천광역시 통합 웹사이트 운영 및 구축	2021.01~2022.12	인천광역시   ㈜이즈파크
@@ -46,6 +44,8 @@ UI개발자는 기획자, 디자이너 ,BackEnd 개발자와의 소통이 매우
 - 롯데 그룹 사이트 운영	2018.03~2018.07	롯데그룹	㈜디지털다임
 
 ## portfolio
+
+🔗 개인 포트폴리오 URL [https://box3101.github.io/cy-web](https://box3101.github.io/cy-web/)
 
 ### 인천광역시 중구청평생교육포털 (width Astro 1.0)
 
