@@ -58,6 +58,8 @@ UI개발자는 기획자, 디자이너 ,BackEnd 개발자와의 소통이 매우
 
 🔗 개인 포트폴리오 URL [https://box3101.github.io/cy-web](https://box3101.github.io/cy-web/)
 
+🔗 개발 블로그 URL [www.notion.so/cylee-blog/](https://cylee-blog.notion.site/f06c3a198f184a438b977bb258ac3003?v=66a51c36545e40fcb7791b0c74a46b90)
+
 ### 인천광역시 중구청평생교육포털 (width Astro 1.0)
 
 ASTRO는 최근에 나온 신생 프레임워크로, 2022년 1월에 버전 1.0이 출시되었습니다.
