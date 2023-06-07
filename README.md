@@ -13,7 +13,7 @@ UI개발자는 기획자, 디자이너 ,BackEnd 개발자와의 소통이 매우
 
 인청광역시 통합 웹사이트, G4b 기업지원 플러스 등 관공서나 공공기관 위주의 업무를 진행 하였고 웹표준, 웹접근성에 관심이 있으며 현재에도 지속적으로 학습을 병행하면서 앞으로 나아가는 중입니다. 
 
-또한 javaScript 라이브러리 프레임워크에 대해서 공부를 진행중이고, React(Redux 활용한) 기업형 홈페이지를 를 만들어 봤으며 현재는 Vue.js를 공부 중입니다.
+또한 javaScript 라이브러리 프레임워크에 대해서 공부를 진행중이고, React(Redux 활용한) 기업형 홈페이지를 를 만들어 봤으며 현재는 리액트를 활요한 토이프로젝트를 진행중입니다.
 
 <h3 dir="auto"><a id="user-content--technical-skills" class="anchor" aria-hidden="true" href="#-technical-skills"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><g-emoji class="g-emoji" alias="hammer_and_wrench" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f6e0.png">🛠</g-emoji> &nbsp;Technical Skills</h3>
 
@@ -60,7 +60,13 @@ UI개발자는 기획자, 디자이너 ,BackEnd 개발자와의 소통이 매우
 
 🔗 개발 블로그 URL [www.notion.so/cylee-blog/](https://cylee-blog.notion.site/f06c3a198f184a438b977bb258ac3003?v=66a51c36545e40fcb7791b0c74a46b90)
 
-### 인천광역시 중구청평생교육포털 (width Astro 1.0)
+## 토이프로젝트 #1 : 동물 플래시 카드 만들기
+
+git 주소 : https://github.com/box3101/AnimalCards
+
+사이트 주소 : https://box3101.github.io/AnimalCards/
+
+## 인천광역시 중구청평생교육포털 (width Astro 1.0)
 
 ASTRO는 최근에 나온 신생 프레임워크로, 2022년 1월에 버전 1.0이 출시되었습니다.
 
@@ -80,7 +86,7 @@ ASTRO를 사용하여 웹 프로젝트를 진행하면서, 효율적이고 편�
 
 🔗 관리자 가이드 페이지(with notion)  [인천 중구청 관리자 작업현황](https://www.notion.so/8c3f15c8796a4b719e0308925e6b6421)
 
-### 인천광역시
+## 인천광역시
 
 🔗 대표 홈페이지 리뉴얼 [https://www.incheon.go.kr/index](https://www.incheon.go.kr/index)
 
@@ -124,7 +130,7 @@ ASTRO를 사용하여 웹 프로젝트를 진행하면서, 효율적이고 편�
 🔗 가이드 페이지  [https://box3101.github.io/g4b/assets/guide/guide.html](https://box3101.github.io/g4b/assets/guide/guide.html)
 
 
-### ICT 한국표준협회 성과관리 시스템
+## ICT 한국표준협회 성과관리 시스템
 
 🔗 GIT URL [https://github.com/box3101/Association](https://github.com/box3101/Association)
 
@@ -132,7 +138,7 @@ ASTRO를 사용하여 웹 프로젝트를 진행하면서, 효율적이고 편�
 
 🔗 가이드 페이지  (with notion) [ICT 한국표준협회(Front) 퍼블리싱 작업 현황](https://www.notion.so/ICT-Front-6022ab91223440fa88874b6f4bf7fb1a)
 
-### ****경남테크노파크 항공우주 시험평가 지원 시스템****
+## ****경남테크노파크 항공우주 시험평가 지원 시스템****
 
 🔗 GIT URL [https://github.com/box3101/Gyeongnam](https://github.com/box3101/Gyeongnam)
 
@@ -140,7 +146,7 @@ ASTRO를 사용하여 웹 프로젝트를 진행하면서, 효율적이고 편�
 
 🔗 프론트 가이드  [https://box3101.github.io/Gyeongnam/assets/guide/guide.html](https://box3101.github.io/Gyeongnam/assets/guide/guide.html)
 
-### ****WEEP****
+## ****WEEP****
 
 🔗 GIT URL [https://github.com/box3101/weep](https://github.com/box3101/weep)
 
@@ -148,7 +154,7 @@ ASTRO를 사용하여 웹 프로젝트를 진행하면서, 효율적이고 편�
 
 🔗 프론트 가이드  [http://weep2020.cafe24.com/weep0514.html](http://weep2020.cafe24.com/weep0514.html)
 
-### ****ICT표준연과성과관리시스템****
+## ****ICT표준연과성과관리시스템****
 
 🔗 GIT URL [https://github.com/box3101/TTA](https://github.com/box3101/TTA)
 
