@@ -58,7 +58,7 @@ UI개발자는 기획자, 디자이너 ,BackEnd 개발자와의 소통이 매우
 
 🔗 개인 포트폴리오 URL [https://box3101.github.io/cy-web](https://box3101.github.io/cy-web/)
 
-🔗 개발 블로그 URL [blog](https://leechanyong.tistory.com/)
+🔗 개발 블로그 URL [https://leechanyong.tistory.com/](https://leechanyong.tistory.com/)
 
 ## 토이프로젝트 #1 : 동물 플래시 카드 만들기
 
