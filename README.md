@@ -115,7 +115,7 @@ ASTRO를 사용하여 웹 프로젝트를 진행하면서, 효율적이고 편�
 
 🔗 GIT URL [https://github.com/box3101/AstroProject](https://github.com/box3101/AstroProject)
 
-🔗 사이트 주소  [https://edu.icjg.go.kr/](https://leechanyong.netlify.app/)
+🔗 사이트 주소  [https://edu.icjg.go.kr/](https://edu.icjg.go.kr/user/main/main/main.do)
 
 🔗 프론트 가이드 페이지(with notion)  [인천 중구청 사용자 작업현황](https://www.notion.so/699e015b035e4950b4a8b6249765cae4) 
 
