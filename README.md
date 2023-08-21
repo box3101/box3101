@@ -208,6 +208,12 @@ ASTRO를 활용한 웹 프로젝트 경험을 통해, 그 효율성과 편리성
 
 ## ICT 한국표준협회 성과관리 시스템
 
+- UI/UX 구현 : 전문 디자이너와의 협업을 통해 개발된 UI/UX 디자인에 따라 웹페이지의 효과적인 애니메이션 및 전환 효과를 성공적으로 구현하였습니다.
+- 반응형 웹
+- 웹 표준 및 접근성 준수
+- 크로스 브라우징 : Internet Explorer, Chrome, Firefox, Safari 등 다양한 브라우저에서 웹사이트의 일관된 동작과 표현을 보장하기 위한 테스트 및 조정을 진행하였습니다.
+- 퍼포먼스 최적화 : 사용자들에게 빠른 웹페이지 로딩 경험을 제공하기 위해, 이미지 및 코드의 최적화 작업을 수행하였습니다.
+
 🔗 GIT URL [https://github.com/box3101/Association](https://github.com/box3101/Association)
 
 🔗 작업 홈페이지 [https://box3101.github.io/Association/assets/html/index.html](https://box3101.github.io/Association/assets/html/index.html)
