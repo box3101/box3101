@@ -198,13 +198,10 @@ ASTRO를 활용한 웹 프로젝트 경험을 통해, 그 효율성과 편리성
 - 크로스 브라우징 :다양한 브라우저와 플랫폼에서 웹사이트가 올바르게 동작하도록 테스트하고 최적화하였습니다.   
 - 퍼포먼스 최적화 : 웹페이지 로딩 시간 최소화를 위한 이미지 최적화 및 코드 최적화 작업을 진행하였습니다.   
 
-🔗 GIT URL [https://github.com/box3101/g4b](https://github.com/box3101/g4b)
 
 🔗 운영 페이지 [https://www.g4b.go.kr:441/svc/main.do](https://www.g4b.go.kr:441/svc/main.do)
 
-🔗 작업 홈페이지  [https://box3101.github.io/g4b/assets/index.html](https://box3101.github.io/g4b/assets/index.html)
-
-🔗 가이드 페이지  [https://box3101.github.io/g4b/assets/guide/guide.html](https://box3101.github.io/g4b/assets/guide/guide.html)
+🔗 가이드  [https://box3101.github.io/g4b/assets/guide/guide.html](https://box3101.github.io/g4b/assets/guide/guide.html)
 
 
 ## ICT 한국표준협회 성과관리 시스템
@@ -214,8 +211,6 @@ ASTRO를 활용한 웹 프로젝트 경험을 통해, 그 효율성과 편리성
 - 웹 표준 및 접근성 준수
 - 크로스 브라우징 : Internet Explorer, Chrome, Firefox, Safari 등 다양한 브라우저에서 웹사이트의 일관된 동작과 표현을 보장하기 위한 테스트 및 조정을 진행하였습니다.
 - 퍼포먼스 최적화 : 사용자들에게 빠른 웹페이지 로딩 경험을 제공하기 위해, 이미지 및 코드의 최적화 작업을 수행하였습니다.
-
-🔗 GIT URL [https://github.com/box3101/Association](https://github.com/box3101/Association)
 
 🔗 작업 홈페이지 [https://box3101.github.io/Association/assets/html/index.html](https://box3101.github.io/Association/assets/html/index.html)
 
@@ -229,8 +224,6 @@ ASTRO를 활용한 웹 프로젝트 경험을 통해, 그 효율성과 편리성
 - 크로스 브라우징 : 항공우주 분야에서 주로 사용되는 브라우저 환경에서의 웹사이트의 안정성을 확보하기 위해 꼼꼼한 테스트 및 조정 작업을 수행하였습니다.
 - 퍼포먼스 최적화 : 항공우주 데이터의 복잡성을 고려하여, 빠른 로딩 속도를 유지하면서 데이터 처리 효율성을 최적화하였습니다.
 
-🔗 GIT URL [https://github.com/box3101/Gyeongnam](https://github.com/box3101/Gyeongnam)
-
 🔗 작업 홈페이지  [https://box3101.github.io/Gyeongnam/assets/html/main.html](https://box3101.github.io/Gyeongnam/assets/html/main.html)
 
 🔗 프론트 가이드  [https://box3101.github.io/Gyeongnam/assets/guide/guide.html](https://box3101.github.io/Gyeongnam/assets/guide/guide.html)
@@ -243,8 +236,6 @@ ASTRO를 활용한 웹 프로젝트 경험을 통해, 그 효율성과 편리성
 - 크로스 브라우징: 다양한 브라우저에서도 사이트가 올바르게 동작하도록 테스트 및 최적화를 진행하였습니다.
 - 퍼포먼스 최적화: 빠른 웹페이지 로딩과 원활한 중계 서비스를 제공하기 위해 코드 및 데이터베이스 성능을 최적화하였습니다.
 
-🔗 GIT URL [https://github.com/box3101/weep](https://github.com/box3101/weep)
-
 🔗 작업 홈페이지  [http://weep2020.cafe24.com/index.html](http://weep2020.cafe24.com/index.html)
 
 🔗 프론트 가이드  [http://weep2020.cafe24.com/weep0514.html](http://weep2020.cafe24.com/weep0514.html)
@@ -256,8 +247,6 @@ ASTRO를 활용한 웹 프로젝트 경험을 통해, 그 효율성과 편리성
 - 웹 표준 및 접근성 준수: ICT 표준연과성과 관련된 중요 정보를 모든 사용자가 불편함 없이 접근하고 사용할 수 있도록 웹 표준 및 접근성을 최적화하였습니다.
 - 크로스 브라우징: 다양한 웹 브라우저에서도 시스템이 올바르게 동작하도록 테스트 및 최적화 작업을 진행하였습니다.
 - 퍼포먼스 최적화: 빠른 응답 시간과 효율적인 데이터 처리를 위해 성능 최적화 작업을 수행하였습니다.
-
-🔗 GIT URL [https://github.com/box3101/TTA](https://github.com/box3101/TTA)
 
 🔗 작업 홈페이지  [https://box3101.github.io/TTA/assets/html/main.html](https://box3101.github.io/TTA/assets/html/main.html)
 
