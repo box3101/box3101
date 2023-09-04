@@ -203,6 +203,18 @@ ASTRO를 활용한 웹 프로젝트 경험을 통해, 그 효율성과 편리성
 
 🔗 가이드  [https://box3101.github.io/g4b/assets/guide/guide.html](https://box3101.github.io/g4b/assets/guide/guide.html)
 
+## ****WEEP****
+
+- UI/UX 구현: 사용자 친화적인 인터페이스로, 기업과 구직자 간의 원활한 연결을 도와주는 디자인을 구현하였습니다.
+- 반응형 웹: 다양한 디바이스에서도 원활한 사용 경험을 제공하기 위해 반응형 웹 디자인을 적용하였습니다.
+- 웹 표준 및 접근성 준수: 모든 사용자가 불편함 없이 사이트를 이용할 수 있도록 웹 표준 및 접근성을 최적화하였습니다.
+- 크로스 브라우징: 다양한 브라우저에서도 사이트가 올바르게 동작하도록 테스트 및 최적화를 진행하였습니다.
+- 퍼포먼스 최적화: 빠른 웹페이지 로딩과 원활한 중계 서비스를 제공하기 위해 코드 및 데이터베이스 성능을 최적화하였습니다.
+
+🔗 작업 홈페이지  [http://weep2020.cafe24.com/index.html](http://weep2020.cafe24.com/index.html)
+
+🔗 프론트 가이드  [http://weep2020.cafe24.com/weep0514.html](http://weep2020.cafe24.com/weep0514.html)
+
 
 ## ICT 한국표준협회 성과관리 시스템
 
@@ -228,17 +240,6 @@ ASTRO를 활용한 웹 프로젝트 경험을 통해, 그 효율성과 편리성
 
 🔗 프론트 가이드  [https://box3101.github.io/Gyeongnam/assets/guide/guide.html](https://box3101.github.io/Gyeongnam/assets/guide/guide.html)
 
-## ****WEEP****
-
-- UI/UX 구현: 사용자 친화적인 인터페이스로, 기업과 구직자 간의 원활한 연결을 도와주는 디자인을 구현하였습니다.
-- 반응형 웹: 다양한 디바이스에서도 원활한 사용 경험을 제공하기 위해 반응형 웹 디자인을 적용하였습니다.
-- 웹 표준 및 접근성 준수: 모든 사용자가 불편함 없이 사이트를 이용할 수 있도록 웹 표준 및 접근성을 최적화하였습니다.
-- 크로스 브라우징: 다양한 브라우저에서도 사이트가 올바르게 동작하도록 테스트 및 최적화를 진행하였습니다.
-- 퍼포먼스 최적화: 빠른 웹페이지 로딩과 원활한 중계 서비스를 제공하기 위해 코드 및 데이터베이스 성능을 최적화하였습니다.
-
-🔗 작업 홈페이지  [http://weep2020.cafe24.com/index.html](http://weep2020.cafe24.com/index.html)
-
-🔗 프론트 가이드  [http://weep2020.cafe24.com/weep0514.html](http://weep2020.cafe24.com/weep0514.html)
 
 ## ****ICT표준연과성과관리시스템****
 
