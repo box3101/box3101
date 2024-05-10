@@ -63,8 +63,10 @@ UI개발자는 기획자, 디자이너 ,BackEnd 개발자와의 소통이 매우
 
 ## Skill Inventory
 
-- 한국은행 성과관리시스템 어드민 구축 2023.07 ~ 진행중 한국은행 ㈜이즈파크
+- 자사 서비스 포트폴리오 및 랜딩 페이지 개발 - 2024.02~2024.03
+- 자사서비스 CRM 동영상 서비스 구현 프론트엔드 개발 - 2024.03~2024.05
 - 인천광역시 통합 웹사이트 운영 및 구축	2021.01~2022.12	인천광역시   ㈜이즈파크
+- 한국은행 성과관리시스템 어드민 구축 2023.08~2024.01 진행중 한국은행 ㈜이즈파크
 - 삼성 SDI 2차 고도화(GSOP 시스템 개발)	2023.03~2023.08	삼성 SDI	㈜이즈파크
 - 인천광역시 중구청평생교육포털 2022.12~2023.02 인천광역시중구청 ㈜이즈파크
 - 삼성 SDI(GSOP 시스템 개발)	2022.09~2023.01	삼성 SDI	㈜이즈파크
@@ -104,10 +106,17 @@ IFEZ 인천경제자유구역 웹 접근성 인증마크 갱신 - 2022.03
 
 **🔗 개인 포트폴리오 URL [https://box3101.github.io/cy-web](https://box3101.github.io/cy-web/)**
 
-**🔗 개발 블로그 URL : [https://leechanyong.tistory.com/](https://leechanyong.tistory.com/)**
+**🔗 개발 블로그 URL : [https://https://bit.ly/cyleeBlog](https://bit.ly/cyleeBlog)**
+
+## 지원사업 빌드업 랜딩 페이지 ##
+
+이 프로젝트는 포켓컴퍼니의 지원사업 빌드업 전략을 위한 핵심 랜딩 페이지를 개발하는 것을 목표로 했습니다.  
+사용자의 참여를 유도하고, 투자자 및 이해관계자에게 회사의 비전과 서비스를 효과적으로 소개하기 위해 설계된 페이지입니다. 
+
+🔗 사이트 주소  [https://xn--9i1b674cwc38r6pa.com/pocket-html/](https://xn--9i1b674cwc38r6pa.com/pocket-html/)
+🔗 사이트 주소  [https://www.xn--9i1b674cwc38r6pa.com/pocket-html/invest-build.html/](https://www.xn--9i1b674cwc38r6pa.com/pocket-html/invest-build.html/)
 
 ## 토이프로젝트 #1 : 동물 플래시 카드 만들기
-
 
 이 프로젝트를 시작하게 된 주된 동기는 제가 리액트에 대한 학습 경험을 실제로 적용해보고 싶었던 열망 때문입니다.  
 저에게는 아직 9개월밖에 안된 아이가 있는데, 아기를 위한 도움이 될만한 프로젝트를 고민하던 중 플래시 카드 개발 프로젝트를 시작하게 되었습니다.
@@ -133,7 +142,7 @@ ASTRO를 활용한 웹 프로젝트 경험을 통해, 그 효율성과 편리성
 
 🔗 GIT URL [https://github.com/box3101/AstroProject](https://github.com/box3101/AstroProject)
 
-🔗 사이트 주소  [https://edu.icjg.go.kr/](https://edu.icjg.go.kr/user/main/main/main.do)
+🔗ㅊ
 
 - 2023.03 정보통신 접근성 인증 프로젝트(품질마크 갱신)
 
