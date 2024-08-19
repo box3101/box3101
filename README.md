@@ -168,8 +168,6 @@ ASTRO를 활용한 웹 프로젝트 경험을 통해, 그 효율성과 편리성
 
 🔗 GIT URL [https://github.com/box3101/AstroProject](https://github.com/box3101/AstroProject)
 
-🔗ㅊ
-
 - 2023.03 정보통신 접근성 인증 프로젝트(품질마크 갱신)
 
 ## 인천광역시
