@@ -1,78 +1,108 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=hi&nbsp;soon😊!&fontSize=50" />
+# Hi there! I'm Chanyong Lee 👋
 
-<h3 dir="auto"><a id="user-content--technical-skills" class="anchor" aria-hidden="true" href="#-technical-skills"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><g-emoji class="g-emoji" alias="hammer_and_wrench" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f6e0.png">🛠</g-emoji> &nbsp;Technical Skills</h3> 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Frontend%20Developer&fontSize=50" />
 
-<p dir="auto">
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/-React-05122A?style=flat&logo=react">
-<img src="https://img.shields.io/badge/-React-05122A?style=flat&logo=react" alt="React" style="max-width: 100%;"></a>&nbsp;
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js">
-<img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js" alt="Vue.js" style="max-width: 100%;"></a>&nbsp;  
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js">
-<img src="https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js" alt="Node.js" style="max-width: 100%;"></a>&nbsp;
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript">
-<img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript" alt="JavaScript" style="max-width: 100%;"></a>&nbsp;
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5">
-<img src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5" alt="HTML" style="max-width: 100%;"></a>&nbsp;
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3&logoColor=1572B6">
-<img src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3&logoColor=1572B6" alt="CSS" style="max-width: 100%;"></a>&nbsp;
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github">
-<img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github" alt="GitHub" style="max-width: 100%;"></a>&nbsp;
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown">
-<img src="https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown" alt="Markdown" style="max-width: 100%;"></a>&nbsp;
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop">
-<img src="https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop" alt="Photoshop" style="max-width: 100%;"></a>&nbsp;
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma">
-<img src="https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma" alt="Figma" style="max-width: 100%;"></a>&nbsp;
-</p>
+> **7년 경력의 UI/프론트엔드 전문가**  
+> 웹 접근성 전문가 · 사용자 중심 UI/UX 구현 · 모던 프론트엔드 기술
 
+## 🚀 About Me
 
-  <br>
-</p>
+- 🔭 현재 **SGATE 성과관리 솔루션** 프론트엔드 개발 중
+- 🌱 **React 생태계** 와 **TypeScript** 심화 학습 중
+- 👯 **웹 접근성** 과 **성능 최적화** 에 특화
+- 📝 기술 블로그: [CY의 퍼블리싱 업무 일지](https://bit.ly/cyleeBlog)
+- 📺 유튜브: [@WebPubLeeShare](https://www.youtube.com/@WebPubLeeShare/videos)
 
+## 📊 GitHub Stats
 
+<div align="center">
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=box3101&show_icons=true&theme=vue&hide_border=true&bg_color=0d1117)
 
-Skill Inventory
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=box3101&layout=compact&theme=vue&hide_border=true&bg_color=0d1117)
 
-성과관리 OKR 솔루션 개발 (SaaS 플랫폼) - 2024.06 ~ 2024.08, ㈜이퀄썸  
-자사 서비스 포트폴리오 및 랜딩 페이지 개발 - 2024.02 ~ 2024.06, 포켓컴퍼니  
-자사 CRM 포켓캠프 프론트엔드 개발 - 2020.01 ~ 2024.02, 포켓컴퍼니  
-인천광역시 통합 웹사이트 운영 및 구축 - 2020.01 ~ 2023.01, 인천광역시, ㈜이즈파크  
-한국문화정보원 문화포털 통합 웹사이트 운영 - 2023.01 ~ 2024.01, 한국문화정보원, ㈜이즈파크  
-삼성 GSOP 시스템 개발 및 2차 고도화 개발 - 2022.09 ~ 2023.08, 삼성 SDI, ㈜이즈파크  
-인천광역시 중구청 평생교육센터 프론트화면 구축 - 2022.10~2023.03, 인천광역시 중구청, ㈜이즈파크  
-ICT 한국표준협회 성과관리 시스템 프론트화면 구축 - 2022.07 ~ 2022.11, ICT 한국표준협회, ㈜이즈파크  
-한국정보통신기술협회 김포공항 출입관리시스템 어드민화면 구축 - 2022.09 ~ 2022.11, 한국정보통신기술협회, ㈜이즈파크  
-금융감독원 마이플랫폼 넥사크로 변환 프로젝트 - 2024.01 ~ 2024.02, 금융감독원, ㈜이즈파크  
-더반찬 PASS 기획전 - 2019.11 ~ 2019.12, 동원홈푸드, ㈜케이와이엔네트웍스  
-에코바이오 홈페이지 리뉴얼 - 2019.09 ~ 2019.11, ㈜에코바이오 홀딩스, ㈜케이와이엔네트웍스  
-MBC 아케데미 원격교육원 웹 접근성 작업 - 2019.08 ~ 2019.09, ㈜바른스터디, ㈜케이와이엔네트웍스  
-태그멤버스 홈페이지 리뉴얼 - 2019.07 ~ 2019.09, ㈜태그, ㈜케이와이엔네트웍스  
-MBC 아카데미 사이버 평생교육원 사이트 구축 - 2019.06 ~ 2019.09, ㈜바른스터디, ㈜케이와이엔네트웍스  
-네패스신소재 웹사이트 구축 - 2019.05 ~ 2019.07, ㈜네패스, ㈜케이와이엔네트웍스  
-GREL 웹사이트 구축 - 2019.03 ~ 2019.05, ㈜GREL, ㈜케이와이엔네트웍스  
-WEEP 사이트 구축 - 2019.04 ~ 2019.11, ㈜케이엘큐브, ㈜케이와이엔네트웍스    
-건강회복 알리미 앱 구축 - 2019.01 ~ 2019.03, ㈜이비엠센터, ㈜케이와이엔네트웍스  
-검단인포 사이트 운영 - 2018.09 ~ 2018.12, 이트라이브, ㈜이트라이브  
-김앤장 뉴스레터 사이트 운영 - 2018.09 ~ 2018.12, 이트라이브, ㈜이트라이브  
-농민신문 사이트 운영 - 2018.09 ~ 2018.12, 이트라이브, ㈜이트라이브  
-바슈롬 사이트 운영 - 2018.09 ~ 2018.12, 이트라이브, ㈜이트라이브  
-JW메리어트호텔 사이트 운영 - 2018.09 ~ 2018.12, 이트라이브, ㈜이트라이브
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=box3101&theme=vue-dark&hide_border=true&background=0d1117)
 
-Web Accessibility: 웹 접근성 인증마크 (7회) 취득 경험
+</div>
 
-인천광역시 대표 홈페이지 웹 접근성 인증마크 획득 - 2021.03  
-인천광역시 일자리포털 웹 접근성 인증마크 휙득 - 2021.11  
-인천광역시 국민안전체험관 웹 접근성 인증마크 휙득 - 2021.12  
-인천광역시 대표 홈페이지 웹 접근성 인증마크 갱신 - 2022.03  
-IFEZ 인천경제자유구역 웹 접근성 인증마크 갱신 - 2022.03  
-문화포털 웹 접근성 인증마크 휙득 - 2023.03  
-인천광역시 중구청 평생교육센터 웹 접근성 인증마크 휙득 2023.04  
+## 🛠 Tech Stack
 
-## portfolio
+### Frontend
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![SCSS](https://img.shields.io/badge/-SCSS-CC6699?style=flat&logo=sass&logoColor=white)
 
-**🔗 개인 포트폴리오 URL [https://chanyong.netlify.app/](https://chanyong.netlify.app/)**
+### Tools & Environment
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
+![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=flat&logo=webpack&logoColor=black)
 
+## 🏆 Key Achievements
 
+### 📋 웹 접근성 전문성
+- **7회 웹 접근성 인증마크** 취득 (인천광역시, 문화포털, IFEZ 등)
+- 공공기관 웹사이트 접근성 가이드라인 수립
 
-**box3101/box3101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 성능 최적화
+- 인천광역시 웹사이트 **로딩 속도 70% 개선** (6초→2초)
+- LG유플러스 갤럭시 S25 사전예약 시스템 최적화로 **목표 달성률 135%** 기여
+
+### 👥 팀 리더십
+- **4인 프론트엔드 팀** 리드 경험
+- 개발 프로세스 개선으로 **팀 생산성 40% 향상**
+
+## 💼 Featured Projects
+
+### 🎯 SGATE 성과관리 솔루션
+**Vue3 + Nuxt3 + TypeScript**
+- 30+ 커스텀 UI 컴포넌트 시스템 구축
+- 서버사이드 렌더링 및 성능 최적화
+- [GitHub 링크](https://github.com/box3101/ispark-sgate)
+
+### 📱 LG유플러스 통합 관리 플랫폼
+**React + SCSS**
+- 이벤트 관리 대시보드 개발
+- 페이지 로딩 속도 25% 개선
+- 운영팀 업무 효율성 30% 향상
+
+## 📈 Experience Timeline
+
+```
+2025.03 ~ 현재    | 이즈파크 - AX Group 프론트엔드 개발자
+2024.06 ~ 2025.03 | 프레임아웃 - LG유플러스 파견 개발자  
+2024.02 ~ 2024.06 | 포켓컴퍼니 - UI개발팀 과장
+2021.01 ~ 2024.02 | 이즈파크 - 공공/금융사업본부 대리
+2019.01 ~ 2021.01 | 케이와이엔네트웍스 - 웹1팀 팀장
+2018.09 ~ 2018.12 | 이트라이브 - 운영1팀 사원
+```
+
+## 🌱 Learning & Sharing
+
+- 📝 **개인 블로그**: 업무 경험과 기술 인사이트 공유
+- 📺 **유튜브 채널**: 프론트엔드 학습 내용 정리 및 공유
+- 🎓 **팀 내 기술 교육**: JavaScript, React, Vue.js 주간 세션 운영
+
+## 🔗 Connect with me
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://chanyong.netlify.app/)
+[![Blog](https://img.shields.io/badge/Blog-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://bit.ly/cyleeBlog)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@WebPubLeeShare/videos)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:box4101@nate.com)
+
+---
+
+<div align="center">
+
+### 💡 "사용자 중심의 웹 서비스로 더 나은 디지털 경험을 만들어갑니다"
+
+![Profile Views](https://komarev.com/ghpvc/?username=box3101&color=green)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" />
