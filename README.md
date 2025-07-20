@@ -80,9 +80,8 @@
 2025.03 ~ 현재    | 이즈파크 - AX Group 프론트엔드 개발자
 2024.06 ~ 2025.03 | 프레임아웃 - LG유플러스 파견 개발자  
 2024.02 ~ 2024.06 | 포켓컴퍼니 - UI개발팀 과장
-2021.01 ~ 2024.02 | 이즈파크 - 공공/금융사업본부 대리
-2019.01 ~ 2021.01 | 케이와이엔네트웍스 - 웹1팀 팀장
-2018.09 ~ 2018.12 | 이트라이브 - 운영1팀 사원
+2020.01 ~ 2024.02 | 이즈파크 - 공공/금융사업본부 대리
+2019.01 ~ 2020.01 | 케이와이엔네트웍스 - 개발부 대리 팀원
 ```
 
 ## 🌱 Learning & Sharing
@@ -107,7 +106,6 @@ pie title Frontend Framework Usage
 
 ## 🔗 Connect with me
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://chanyong.netlify.app/)
 [![Blog](https://img.shields.io/badge/Blog-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://bit.ly/cyleeBlog)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@WebPubLeeShare/videos)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:box4101@nate.com)
