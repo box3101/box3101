@@ -91,10 +91,18 @@
 
 ## Education & Research
 
-**동국대학교 컴퓨터공학과**
-
+**동국대학교 컴퓨터공학과** (2010.03-2025.02)
 - 졸업논문: "웹 애플리케이션의 성능에 대한 프론트엔드 상태 관리 라이브러리의 영향 분석 및 최적화 전략 연구"
 - React 생태계 상태관리 라이브러리 성능 비교 분석 (Redux, Zustand, Recoil)
+
+## Knowledge Sharing & Team Education
+
+**기술 블로그**: [CY의 업무 일지](https://bit.ly/cyleeBlog)  
+**YouTube**: [@WebPubLeeShare](https://www.youtube.com/@WebPubLeeShare/videos)
+
+- 팀 내 기술 교육 자료로 활용 중 (JavaScript, React, Vue.js)
+- 실무 경험 기반 프론트엔드 개발 노하우 공유
+- 주간 기술 세션 운영을 통한 팀 역량 향상 기여
 
 ## Professional Experience
 
