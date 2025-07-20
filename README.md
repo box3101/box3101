@@ -11,7 +11,7 @@
 - 🌱 **React 생태계** 와 **TypeScript** 심화 학습 중
 - 👯 **웹 접근성** 과 **성능 최적화** 에 특화
 - 📺 유튜브: [@WebPubLeeShare](https://www.youtube.com/@WebPubLeeShare/videos)
-- 📝 기술 블로그: [CY의 퍼블리싱 업무 일지](https://bit.ly/cyleeBlog)
+- 📝 기술 블로그: [CY의 업무 일지](https://bit.ly/cyleeBlog)
 
 ## 📊 GitHub Stats - Frontend Focus
 
