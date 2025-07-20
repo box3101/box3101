@@ -1,123 +1,108 @@
-# Hi there! I'm Chanyong Lee 👋
+# 이찬용 | Frontend Developer
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Frontend%20Developer&fontSize=50" />
+**7년 실무 경험 · 웹 접근성 전문가 · 성과 중심 개발자**
 
-> **7년 경력의 UI/프론트엔드 전문가**  
-> 웹 접근성 전문가 · 사용자 중심 UI/UX 구현 · 모던 프론트엔드 기술
-
-## 🚀 About Me
-
-- 🔭 현재 **SGATE 성과관리 솔루션** 프론트엔드 개발 중
-- 🌱 **React 생태계** 와 **TypeScript** 심화 학습 중
-- 👯 **웹 접근성** 과 **성능 최적화** 에 특화
-- 📺 유튜브: [@WebPubLeeShare](https://www.youtube.com/@WebPubLeeShare/videos)
-- 📝 기술 블로그: [CY의 업무 일지](https://bit.ly/cyleeBlog)
-
-## 📊 GitHub Stats - Frontend Focus
-
-<div align="center">
-
-<!-- Vue 테마 기본 스탯 -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=box3101&show_icons=true&theme=vue&hide_border=true&bg_color=0d1117&custom_title=Frontend%20Development%20Stats)
-
-<!-- Vue/React 중심 언어 통계 -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=box3101&layout=compact&theme=vue&hide_border=true&bg_color=0d1117&hide=html,css,scss,php,java&langs_count=8&custom_title=Frontend%20Tech%20Stack)
-
-<!-- Streak with Vue theme -->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=box3101&theme=vue-dark&hide_border=true&background=0d1117)
-
-</div>
-
-## 🛠 Tech Stack
-
-### Frontend
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![SCSS](https://img.shields.io/badge/-SCSS-CC6699?style=flat&logo=sass&logoColor=white)
-
-### Tools & Environment
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
-![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=flat&logo=webpack&logoColor=black)
-
-## 🏆 Key Achievements
-
-### 📋 웹 접근성 전문성
-- **7회 웹 접근성 인증마크** 취득 (인천광역시, 문화포털, IFEZ 등)
-- 공공기관 웹사이트 접근성 가이드라인 수립
-
-### 🚀 성능 최적화
-- 인천광역시 웹사이트 **로딩 속도 70% 개선** (6초→2초)
-- LG유플러스 갤럭시 S25 사전예약 시스템 최적화로 **목표 달성률 135%** 기여
-
-### 👥 팀 리더십
-- **4인 프론트엔드 팀** 리드 경험
-- 개발 프로세스 개선으로 **팀 생산성 40% 향상**
-
-## 💼 Featured Projects
-
-### 🎯 SGATE 성과관리 솔루션
-**Vue3 + Nuxt3 + TypeScript**
-- 30+ 커스텀 UI 컴포넌트 시스템 구축
-- 서버사이드 렌더링 및 성능 최적화
-- [GitHub 링크](https://github.com/box3101/ispark-sgate)
-
-### 📱 LG유플러스 통합 관리 플랫폼
-**React + SCSS**
-- 이벤트 관리 대시보드 개발
-- 페이지 로딩 속도 25% 개선
-- 운영팀 업무 효율성 30% 향상
-
-## 📈 Experience Timeline
-
-```
-2025.03 ~ 현재    | 이즈파크 - AX Group 프론트엔드 개발자
-2024.06 ~ 2025.03 | 프레임아웃 - LG유플러스 파견 개발자  
-2024.02 ~ 2024.06 | 포켓컴퍼니 - UI개발팀 과장
-2020.01 ~ 2024.02 | 이즈파크 - 공공/금융사업본부 대리
-2019.01 ~ 2020.01 | 케이와이엔네트웍스 - 개발부 대리 팀원
-```
-
-## 🌱 Learning & Sharing
-
-- 📝 **개인 블로그**: 업무 경험과 기술 인사이트 공유
-- 📺 **유튜브 채널**: 프론트엔드 학습 내용 정리 및 공유
-- 🎓 **팀 내 기술 교육**: JavaScript, React, Vue.js 주간 세션 운영
-
-## 🎨 Framework Preference Visualization
-
-<div align="center">
-
-```mermaid
-pie title Frontend Framework Usage
-    "Vue.js" : 45
-    "React" : 35  
-    "Vanilla JS" : 15
-    "Others" : 5
-```
-
-</div>
-
-## 🔗 Connect with me
-
-[![Blog](https://img.shields.io/badge/Blog-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://bit.ly/cyleeBlog)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@WebPubLeeShare/videos)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:box4101@nate.com)
+📧 box4101@nate.com | 📱 010-2280-0826 | 📍 인천 부평구
 
 ---
 
-<div align="center">
+## Professional Summary
 
-### 💡 "사용자 중심의 웹 서비스로 더 나은 디지털 경험을 만들어갑니다"
+공공기관부터 대기업까지 다양한 프로젝트를 통해 **검증된 프론트엔드 전문성**을 보유한 개발자입니다.  
+웹 접근성 표준 준수와 성능 최적화를 통해 **실질적인 비즈니스 가치**를 창출합니다.
 
-![Profile Views](https://komarev.com/ghpvc/?username=box3101&color=green)
+## Core Achievements
 
-</div>
+### 🏆 웹 접근성 전문성
+- **8회 연속 웹 접근성 인증** 취득 (인천광역시, 문화정보원, IFEZ 등)
+- 행정안전부 공공기관 품질검사 **우수등급** 달성
+- 웹 표준 준수를 통한 사용자 접근성 향상
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" />
+### ⚡ 성능 최적화 전문가
+- 인천광역시 웹사이트 **페이지 로딩속도 70% 개선** (6초→2초)
+- 이미지 최적화, CSS 구조 개선, 웹폰트 최적화를 통한 종합적 성능 향상
+- 사용자 경험 개선과 서버 자원 효율성 동시 달성
+
+### 💼 프로세스 혁신 리더
+- **AI 도구(Cursor.ai) 도입**으로 레거시 코드 모듈화 주도
+- 마케팅팀 랜딩페이지 제작시간 **75% 단축** (3-4일→1일)
+- UI 컴포넌트 시스템 구축으로 **개발 효율 40% 향상**
+
+## Technical Expertise
+
+**Frontend Development**
+- JavaScript ES6+, TypeScript
+- Vue.js (Vue3, Composition API, Pinia)
+- React.js (Hooks, 상태관리 라이브러리)
+- HTML5, CSS3, SCSS
+
+**Development Tools**
+- Cursor.ai (AI-assisted development)
+- Git, Webpack
+- 웹 접근성 검증 도구
+- 성능 분석 및 최적화 도구
+
+**Specialization**
+- 웹 접근성 표준 (KWCAG 2.1)
+- 프론트엔드 성능 최적화
+- 크로스 브라우저 호환성
+- 반응형 웹 디자인
+
+## Key Projects
+
+### 갤럭시 S25 사전예약 시스템 최적화
+**LG유플러스 · 2024.06-2025.03**
+- **기술스택**: React, Vue, JavaScript, SCSS
+- **성과**: 목표 달성률 135% 기여
+- 레거시 jQuery 코드를 모듈 단위로 리팩토링
+- Cursor.ai 도입으로 개발팀 생산성 향상
+- 이벤트 관리 대시보드 개발로 운영팀 업무 효율성 개선
+
+### SGATE 성과관리 솔루션
+**이즈파크 · 2025.03-현재**
+- **기술스택**: Vue3, Nuxt3, TypeScript, Pinia
+- **성과**: 30개 UI 컴포넌트 시스템 구축, 개발 효율 40% 향상
+- Composition API 활용한 재사용 가능 컴포넌트 설계
+- 마케팅 랜딩페이지 템플릿화로 제작시간 75% 단축
+- 크로스팀 협업 프로세스 구축 (디자인·마케팅·기획)
+
+### 인천광역시 통합 웹사이트 운영
+**이즈파크 · 2020.01-2024.02**
+- **규모**: 20개 사이트 구축/운영
+- **성과**: 웹 접근성 인증 8회 취득, 페이지 로딩속도 70% 개선
+- 대규모 SI 프로젝트 참여 (금융감독원, 한국은행, 삼성SDI)
+- 다국어 지원 홈페이지 개발 (영/중/일)
+- 공공기관 품질검사 우수등급 달성
+
+## Business Impact
+
+**성능 최적화**
+- 웹사이트 로딩 속도 개선을 통한 사용자 이탈률 감소
+- 서버 자원 사용량 최적화로 운영 비용 절감
+
+**프로세스 개선**
+- AI 도구 도입으로 개발 생산성 향상
+- 컴포넌트 시스템화로 반복 작업 최소화
+- 크로스팀 협업 체계 구축으로 프로젝트 일정 단축
+
+**품질 관리**
+- 웹 접근성 표준 준수로 법적 리스크 최소화
+- 크로스 브라우저 호환성 확보로 사용자 커버리지 확대
+
+## Education & Research
+
+**동국대학교 컴퓨터공학과** (2010.03-2025.02)
+- 졸업논문: "웹 애플리케이션의 성능에 대한 프론트엔드 상태 관리 라이브러리의 영향 분석 및 최적화 전략 연구"
+- React 생태계 상태관리 라이브러리 성능 비교 분석 (Redux, Zustand, Recoil)
+
+## Professional Experience
+
+**이즈파크** AX Group 책임연구원 (2025.03-현재)  
+**프레임아웃** (LG유플러스 파견) 프리랜서 (2024.06-2025.03)  
+**포켓컴퍼니** UI개발팀 과장 (2024.02-2024.06)  
+**이즈파크** 공공/금융사업본부 대리 (2020.01-2024.02)  
+**KynNetworks** 대리 팀원 (2019.01-2019.12)
+
+---
+
+> **"기술적 전문성과 비즈니스 가치 창출을 통해 조직의 성장에 기여하는 프론트엔드 개발자"**
