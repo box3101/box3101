@@ -59,7 +59,8 @@
 - 이벤트 관리 대시보드 개발로 운영팀 업무 효율성 개선
 
 ### SGATE 성과관리 솔루션
-
+**이즈파크 · 2025.03-현재
+- **기술스택**: React, Vue, JavaScript, SCSS
 ■ SGATE 솔루션의 프론트엔드 UI 퍼블리싱을 담당하며 Vue3/Nuxt3 기반 컴포넌트를 구축
 
 기존 Vue2 + JSP 기반의 레거시 시스템을 Vue3/Nuxt3/TypeScript 스택으로 
